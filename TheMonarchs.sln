@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheMonarchs", "TheMonarchs\TheMonarchs.csproj", "{C0E6CD46-B458-452A-99AB-246BB614DB8E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheMonarchsApi", "TheMonarchsApi\TheMonarchsApi.csproj", "{A1808B0B-AE33-4241-8D34-2DE84E15A6A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0E6CD46-B458-452A-99AB-246BB614DB8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0E6CD46-B458-452A-99AB-246BB614DB8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0E6CD46-B458-452A-99AB-246BB614DB8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0E6CD46-B458-452A-99AB-246BB614DB8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1808B0B-AE33-4241-8D34-2DE84E15A6A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1808B0B-AE33-4241-8D34-2DE84E15A6A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1808B0B-AE33-4241-8D34-2DE84E15A6A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1808B0B-AE33-4241-8D34-2DE84E15A6A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB30CAEA-2558-4870-9922-62BD98B998AF}
+	EndGlobalSection
+EndGlobal
