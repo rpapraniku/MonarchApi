@@ -1,6 +1,6 @@
 ﻿using TheMonarchsApi.DTO;
 
-namespace TheMonarchsApi.Interface
+namespace TheMonarchs.Services.Interfaces
 {
     public interface IFileService
     {

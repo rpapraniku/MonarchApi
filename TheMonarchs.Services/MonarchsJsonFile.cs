@@ -1,4 +1,4 @@
-﻿namespace TheMonarchsApi
+﻿namespace TheMonarchs.Services
 {
     public class MonarchsJsonFile
     {

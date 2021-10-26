@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using TheMonarchsApi.Interface;
+using TheMonarchs.Services.Interfaces;
 
 namespace TheMonarchsApi.Controllers
 {

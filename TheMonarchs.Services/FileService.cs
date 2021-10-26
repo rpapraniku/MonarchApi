@@ -2,10 +2,10 @@
 using Newtonsoft.Json;
 using System.Collections.Generic;
 using System.Linq;
+using TheMonarchs.Services.Interfaces;
 using TheMonarchsApi.DTO;
-using TheMonarchsApi.Interface;
 
-namespace TheMonarchsApi.Service
+namespace TheMonarchs.Services
 {
     public class FileService : IFileService
     {
